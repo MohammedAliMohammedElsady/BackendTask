@@ -1,0 +1,15 @@
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\bin\Debug\net6.0\StorexWebRepository.deps.json
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\bin\Debug\net6.0\StorexWebRepository.dll
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\bin\Debug\net6.0\StorexWebRepository.pdb
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\bin\Debug\net6.0\StorexWebCore.dll
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\bin\Debug\net6.0\StorexWebCore.pdb
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.csproj.AssemblyReference.cache
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.AssemblyInfoInputs.cache
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.AssemblyInfo.cs
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.csproj.CoreCompileInputs.cache
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.csproj.CopyComplete
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.dll
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\refint\StorexWebRepository.dll
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\StorexWebRepository.pdb
+D:\Task\StorexWebTask\storexweb_task\StorexWebRepository\obj\Debug\net6.0\ref\StorexWebRepository.dll
